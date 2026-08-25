@@ -1,6 +1,6 @@
-# StayWise AI — Business AI Customer Service Platform, V1 - AI Hotel Assistant
+# StayWise AI - Business AI Customer Service Platform, V1 - AI Hotel Assistant
 AI-powered hotel customer service and booking assistant built with Python, open-source AI and Google Colab.
-# 🏨 StayWise AI — Hotel AI Assistant
+# 🏨 StayWise AI - Hotel AI Assistant
 
 An AI-powered hotel customer service and booking assistant built as a portfolio project using Python, Google Colab, Hugging Face Transformers and Gradio.
 
